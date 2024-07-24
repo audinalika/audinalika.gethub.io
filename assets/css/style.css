@@ -86,4 +86,11 @@
     width: 100%;
     bottom: 0;
   }
-  
+  .avatar {
+    width: 100px; /* Sesuaikan ukuran sesuai kebutuhan */
+    height: auto;
+    border-radius: 50%; /* Agar menjadi lingkaran */
+    margin-right: 20px; /* Memberi jarak antara gambar dan teks */
+    vertical-align: middle; /* Agar gambar dan teks sejajar */
+  }
+   
